@@ -1,0 +1,35 @@
+table{
+    border: 1px solid black; border-collapse: collapse;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 220px;
+    width: 90%;
+    font-size: 20px;
+    background-color:#0766AD;
+}
+
+th{
+    padding: 10px;
+}
+
+td{
+    padding: 9px;
+}
+
+.room{
+    background-color:#97DEFF;
+}
+
+.time{
+    background-color:#62CDFF;
+}
+
+.day{
+    background-color:#62CDFF;
+}
+.rooms{
+    background-color: #3081D0;
+}
+.blank{
+    background-color: #0766AD;
+}
